@@ -73,7 +73,7 @@ int main(int argc, char const *argv[]){
 	//Clear Screen with system("cls")
 	Converter object;
 	float number;
-	cout << "\t\t******* CONVERTER ********\n\n";
+	cout << "\t\t******* CONVERTER *******\n\n";
 
 	check:
 	cout << "\tEnter the number: ";
